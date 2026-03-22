@@ -12,7 +12,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=003falcon&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=003falcon&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=003falcon&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=003falcon&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ![snake svg](https://github.com/003falcon/003falcon/blob/output/github-contribution-grid-snake.svg)
