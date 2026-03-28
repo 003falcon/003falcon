@@ -12,10 +12,11 @@
 ![](https://komarev.com/ghpvc/?username=003falcon&style=plastic)
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
+
 ![snake svg](https://github.com/003falcon/003falcon/blob/output/github-contribution-grid-snake.svg)
 
 
